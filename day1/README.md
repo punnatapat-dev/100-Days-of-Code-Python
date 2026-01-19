@@ -1,0 +1,22 @@
+# 📅 Day 1 – Python Basics
+
+## 🧠 Kernkonzepte & Lerninhalte
+
+🖨️ **Print-Funktion**  
+Verwendung der `print()`-Funktion zur strukturierten Ausgabe von Informationen in der Konsole.
+
+🔤 **String-Manipulation**  
+Fortgeschrittene Bearbeitung von Zeichenketten, einschließlich Zeilenumbrüchen (`\n`) und String-Konkatenation mithilfe des `+`-Operators.
+
+⌨️ **Benutzereingaben (User Input)**  
+Implementierung der `input()`-Funktion zur Erstellung interaktiver Python-Anwendungen.
+
+📦 **Python-Variablen**  
+Speicherung von Daten in Variablen sowie Anwendung von Namenskonventionen gemäß **PEP 8**  
+(z. B. `snake_case`).
+
+🐞 **Fehlerbehandlung (Debugging)**  
+Systematische Analyse und Behebung häufiger Fehler wie:
+- `SyntaxError`
+- `IndentationError`
+- `NameError`
