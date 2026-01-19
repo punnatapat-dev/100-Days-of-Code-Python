@@ -20,3 +20,16 @@ Systematische Analyse und Behebung häufiger Fehler wie:
 - `SyntaxError`
 - `IndentationError`
 - `NameError`
+
+  
+# ☕🐶 Day 1 – Kuschel-Café Name Generator
+
+## 📌 Projektbeschreibung
+Small Python learning project that generates a café name based on user input.
+
+## ▶️ Live Demo
+[Kuschel-Café Name Generator on Replit](https://replit.com/@punnatapat-dev/Kuschel-Cafe-Name-Generator)
+
+## 🛠️ How to Run (Local)
+```bash
+python main.py
