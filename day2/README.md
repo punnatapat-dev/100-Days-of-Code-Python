@@ -85,11 +85,16 @@ is_active = True
 
 print(f"Points: {points}, Height: {height} m, Active: {is_active}")
 
-🍕 Mini Project – Pizza Cost Calculator
+# 🍕 Day 2 – Mini Project – Pizza Cost Calculator
 
+## 📌 Projektbeschreibung
 Ein kleines Python-Projekt zur Berechnung des Pizza-Preises pro Person.
 Das Projekt kombiniert Benutzereingaben, Datentypen, mathematische Berechnungen
 und formatierte Ausgaben.
 
-python main.py
+## ▶️ Live Demo
+https://replit.com/@punnatapat-dev/Pizza-Kostenrechner?v=1
 
+## 🛠️ How to Run (Local)
+```bash
+python main.py
