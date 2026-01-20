@@ -1,100 +1,82 @@
-## 📘 Python Basics – Datentypen, Operatoren und Number Manipulation
+## 📘 Day 2 – Python Basics
+
 ---
+
 ## 🧩 Grundlagen
 
 ### 🧩 Thema: Python Basics – Datentypen und Rechenoperationen
 
 In diesem Abschnitt werden grundlegende Python-Konzepte vorgestellt und anhand
-einfacher Code-Beispiele erklärt.  
-Dazu gehören **primitive Datentypen**, **Type Checking**, **Type Conversion**,
-**mathematische Operatoren** sowie **Number Manipulation**.
+einfacher Beispiele erklärt. Dazu gehören Datentypen, Type Checking,
+Type Conversion sowie mathematische Operatoren.
 
 ---
 
-### 📝 Inhalte & Beispiele
+## 📝 Inhalte & Beispiele
 
-```python
-# String – Subskription
-print("Hello"[0])
+- 📝 **String – Subskription**  
+  `print("Hello"[0])`
 
-# String – Textverkettung
-print("123" + "345")
+- 📝 **String – Textverkettung**  
+  `print("123" + "345")`
 
-# Integer – ganze Zahlen
-print(123 + 345)
+- 🔢 **Integer – ganze Zahlen**  
+  `print(123 + 345)`
 
-# Large Integer
-print(123_456_789)
+- 🔢 **Large Integer**  
+  `print(123_456_789)`
 
-# Float – Gleitkommazahl
-print(3.14159)
+- 🔣 **Float – Gleitkommazahl**  
+  `print(3.14159)`
 
-# Boolean – Wahrheitswerte
-print(True)
-print(False)
+- ✅ **Boolean – Wahrheitswerte**  
+  `print(True)`  
+  `print(False)`
 
-# TypeError (falscher Datentyp)
-# len(123)
+- ❌ **TypeError (falscher Datentyp)**  
+  `len(123)`
 
-# Kein TypeError
-len("Hello")
+- ✅ **Kein TypeError**  
+  `len("Hello")`
 
-# Type Checking
-print(type("abc"))    # str
-print(type(123))      # int
-print(type(3.14))     # float
-print(type(True))     # bool
+- 🔍 **Type Checking**  
+  `type("abc")` → `str`  
+  `type(123)` → `int`  
+  `type(3.14)` → `float`  
+  `type(True)` → `bool`
 
-# Type Conversion
-str()
-int()
-float()
-bool()
+- 🔄 **Type Conversion**  
+  `str()` · `int()` · `float()` · `bool()`
 
-# Benutzer-Eingabe
-name_of_the_user = input("Enter your name")
-length_of_name = len(name_of_the_user)
-print("Number of letters in your name: " + str(length_of_name))
+- 👤 **Benutzereingabe & String-Länge**  
+  `name_of_the_user = input("Enter your name")`  
+  `len(name_of_the_user)`
 
-# Mathematische Operatoren
-print("My age: " + str(12))
-print(123 + 456)
-print(7 - 3)
-print(3 * 2)
-print(5 / 3)
-print(5 // 3)
-print(2 ** 3)
+- ➕➖✖️➗ **Mathematische Operatoren**  
+  `+  -  *  /  //  **`
 
-# PEMDAS – Rechenreihenfolge
-print(3 * (3 + 3) / 3 - 3)  # Ergebnis: 3
+- 📐 **Rechenreihenfolge (PEMDAS)**  
+  `print(3 * (3 + 3) / 3 - 3)` → Ergebnis: `3`
 
-# Number Manipulation
-print(int(7.98421))
-print(round(7.98421))
-print(round(5.4321, 3))
+- 🔢 **Number Manipulation**  
+  `int(7.98421)` → Flooring  
+  `round(7.98421)` → Runden  
+  `round(5.4321, 3)` → Dezimalstellen
 
-score = 20
-score += 5
-score -= 3
-score *= 2
-score /= 4
+- 🧵 **f-Strings (formatierte Ausgabe)**  
+  `f"Points: {points}, Height: {height} m, Active: {is_active}"`
 
-points = 15
-height = 1.75
-is_active = True
+---
 
-print(f"Points: {points}, Height: {height} m, Active: {is_active}")
+## 🍕 Mini Project – Pizza Cost Calculator
 
-# 🍕 Day 2 – Mini Project – Pizza Cost Calculator
-
-## 📌 Projektbeschreibung
+### 📌 Projektbeschreibung
 Ein kleines Python-Projekt zur Berechnung des Pizza-Preises pro Person.
 Das Projekt kombiniert Benutzereingaben, Datentypen, mathematische Berechnungen
 und formatierte Ausgaben.
 
-## ▶️ Live Demo
+### ▶️ Live Demo
 https://replit.com/@punnatapat-dev/Pizza-Kostenrechner?v=1
 
-## 🛠️ How to Run (Local)
-```bash
-python main.py
+### 🛠️ How to Run (Local)
+`python main.py`
