@@ -76,7 +76,7 @@ Das Projekt kombiniert Benutzereingaben, Datentypen, mathematische Berechnungen
 und formatierte Ausgaben.
 
 ### ▶️ Live Demo
-https://replit.com/@punnatapat-dev/Pizza-Kostenrechner?v=1
+(https://replit.com/@punnatapat-dev/Pizza-Kostenrechner)
 
 ### 🛠️ How to Run (Local)
 `python main.py`
