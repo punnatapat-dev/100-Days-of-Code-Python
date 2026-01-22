@@ -46,5 +46,6 @@ Der Fokus lag auf Bedingungen (`if`, `elif`, `else`), Vergleichs- und logischen 
   Anwendung der gelernten Konzepte durch kleine Entscheidungs- und Logikspiele.
 
 ---
-### ▶️ Live Demo (Replit)
+### ▶️ Live Demo (Replit) 
+https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen
 [Run this project on Replit](https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen)
