@@ -46,9 +46,5 @@ Der Fokus lag auf Bedingungen (`if`, `elif`, `else`), Vergleichs- und logischen 
   Anwendung der gelernten Konzepte durch kleine Entscheidungs- und Logikspiele.
 
 ---
-
-### 🎯 Lernziel
-
-- Entwicklung eines **logischen Denkprozesses**
-- Planung von Entscheidungsabläufen **vor** dem Schreiben von Code
-- Sicherer Umgang mit Bedingungen und Kontrollstrukturen in Python
+### ▶️ Live Demo (Replit)
+[Run this project on Replit](https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen)
