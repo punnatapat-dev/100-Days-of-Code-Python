@@ -12,3 +12,9 @@ A structured Python learning journey based on hands-on projects and daily practi
   - Topics: Primitive Datatypes, Type Checking, Type Conversion, Operators, Number Manipulation  
   - 🍕 Mini Project: Pizza Cost Calculator  
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Pizza-Kostenrechner)
+    
+- 📁 [Day 3 – Conditions, Logic & Decision Making](/day3)
+  - Topics: Conditional Statements, Logical Thinking, Decision Structures
+  - 🎮 Mini Project: Fauler Sonntagmorgen ☕😴
+  - ▶️ Live Demo (Replit)
+[Run this project on Replit](https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen)
