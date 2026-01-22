@@ -44,6 +44,12 @@ Der Fokus lag auf Bedingungen (`if`, `elif`, `else`), Vergleichs- und logischen 
 
 - 🎮 **Praxis: Textbasierte Entscheidungsprogramme**  
   Anwendung der gelernten Konzepte durch kleine Entscheidungs- und Logikspiele.
+  
+# 🎮 Mini Project – Fauler Sonntagmorgen ☕😴
+
+### 📌 Projektbeschreibung
+Ein kleines textbasiertes Python-Spiel zur Übung von **Bedingungen, Logik und Entscheidungsfindung**.  
+Das Projekt nutzt Benutzereingaben, verschachtelte `if`-Anweisungen und logische Operatoren, um verschiedene Spielverläufe und Enden zu simulieren.
 
 ---
 ### ▶️ Live Demo (Replit) 
