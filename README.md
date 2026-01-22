@@ -16,5 +16,4 @@ A structured Python learning journey based on hands-on projects and daily practi
 - 📁 [Day 3 – Conditions, Logic & Decision Making](/day3)
   - Topics: Conditional Statements, Logical Thinking, Decision Structures
   - 🎮 Mini Project: Fauler Sonntagmorgen ☕😴
-  - ▶️ Live Demo (Replit)
-[Run this project on Replit](https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen)
+  - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen)
