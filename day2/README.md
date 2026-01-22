@@ -78,5 +78,4 @@ und formatierte Ausgaben.
 ### ▶️ Live Demo
 (https://replit.com/@punnatapat-dev/Pizza-Kostenrechner)
 
-### 🛠️ How to Run (Local)
-`python main.py`
+
