@@ -1,6 +1,6 @@
-# 🎲 Day 4 – Randomization in Python
+# 📘 Day 4 – Randomization in Python
 
-## Überblick
+## 🎲 Random Module
 In diesem Kapitel geht es um Zufälligkeit (Randomization) in Python.
 Da Computer deterministisch arbeiten, nutzt Python sogenannte Pseudo-Zufallszahlen,
 die mithilfe mathematischer Algorithmen erzeugt werden.
