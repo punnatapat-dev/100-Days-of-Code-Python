@@ -274,11 +274,11 @@ Erklärung:
 - Zugriff erfolgt mit `[Index][Index]`
 
 ---
-
-## Fazit
-Nested Lists sind sehr nützlich, wenn Daten **in Gruppen organisiert** werden sollen.
+ ## Fazit
+ Nested Lists sind sehr nützlich, wenn Daten **in Gruppen organisiert** werden sollen.
 Sie helfen dabei, zusammengehörige Daten übersichtlich zu strukturieren
 und werden häufig beim Programmieren mit Python verwendet.
+
 ---
 
 🍽️ Mini Project – Food Picker 🍜🥨
