@@ -55,4 +55,86 @@ Variante 2 – mit random():
         print("Kopf")
     else:
         print("Zahl")
+---
+# 📋 Python Lists 
+
+In diesem Abschnitt geht es um die **Python List**, eine wichtige **Datenstruktur**.
+Listen werden verwendet, um **mehrere zusammengehörige Daten** in einer einzigen Variable zu speichern.
+Dabei behalten Listen immer eine **feste Reihenfolge**.
+
+--
+
+## Was ist eine List?
+Eine List ist eine Sammlung von Werten, die:
+- in **eckigen Klammern [ ]** steht
+- mehrere Elemente enthalten kann
+- durch **Kommas** getrennt ist
+- eine feste Reihenfolge besitzt
+--
+## Beispiel: Städte in Nordrhein-Westfalen (NRW)
+
+Anstatt viele einzelne Variablen zu verwenden, können Städte in NRW in einer Liste gespeichert werden:
+
+    cities_nrw = ["Köln", "Düsseldorf", "Dortmund", "Essen", "Bochum"]
+
+Alle Städte gehören zusammen und werden deshalb in einer List gespeichert.
+
+## Reihenfolge in Listen
+Die Reihenfolge der Elemente in einer List ist wichtig.
+Jedes Element hat einen sogenannten **Index**.
+
+- Das erste Element hat den Index 0
+- Das zweite Element hat den Index 1
+- Das dritte Element hat den Index 2
+
+Beispiel:
+    cities_nrw[0]  → Köln
+    cities_nrw[1]  → Düsseldorf
+
+Programmiersprachen beginnen fast immer mit dem Zählen bei 0.
+
+## Negative Indizes
+Man kann auch vom Ende der Liste zählen:
+
+    cities_nrw[-1] → Bochum
+    cities_nrw[-2] → Essen
+
+- -1 ist das letzte Element
+- -2 ist das vorletzte Element
+
+## Elemente in einer List ändern
+Ein einzelnes Element kann direkt geändert werden:
+
+    cities_nrw[1] = "Bonn"
+
+Jetzt ist „Düsseldorf“ durch „Bonn“ ersetzt.
+
+--
+## Elemente zu einer List hinzufügen
+
+### append()
+Fügt **ein Element am Ende** der Liste hinzu:
+
+    cities_nrw.append("Münster")
+
+---
+
+### extend()
+Fügt **mehrere Elemente** aus einer anderen Liste hinzu:
+
+    cities_nrw.extend(["Aachen", "Bielefeld"])
+
+---
+
+## 💡Merkhilfe
+- Lists speichern **mehrere zusammengehörige Werte**
+- Lists haben immer eine **Reihenfolge**
+- Der erste Index ist **0**
+- Mit append() wird **ein Element** hinzugefügt
+- Mit extend() werden **mehrere Elemente** hinzugefügt
+
+---
+
+
+
 
