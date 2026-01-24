@@ -279,3 +279,25 @@ Erklärung:
 Nested Lists sind sehr nützlich, wenn Daten **in Gruppen organisiert** werden sollen.
 Sie helfen dabei, zusammengehörige Daten übersichtlich zu strukturieren
 und werden häufig beim Programmieren mit Python verwendet.
+---
+
+🍽️ Mini Project – Food Picker 🍜🥨
+
+📌 Projektbeschreibung
+
+Ein kleines textbasiertes Python-Programm zur Übung von **Listen**, **Zufallsauswahl** und **Entscheidungslogik**.  
+Der Benutzer wählt eine Essenskategorie aus, und das Programm schlägt **zufällig ein Gericht** aus der passenden Liste vor.
+
+Das Projekt verwendet:
+- Benutzereingaben (`input`)
+- Bedingungen (`if / elif / else`)
+- Listen (`list`)
+- Zufallsfunktionen (`random.choice`)
+
+ํ
+
+---
+
+▶️ Live Demo (Replit)
+
+https://replit.com/@punnatapat-dev/Food-Picker
