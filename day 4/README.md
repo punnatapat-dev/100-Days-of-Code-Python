@@ -36,23 +36,23 @@ Beispiele:
 - randint() → diskrete Auswahl (z.B. Würfel, Kopf/Zahl)
 - random() → Wahrscheinlichkeiten / Prozentwerte
 
-## Beispiel: Münzwurf (Heads or Tails)
+## Beispiel: Münzwurf (Kopf or Zahl)
 
 Variante 1 – mit randint:
 
     import random
 
     if random.randint(0, 1) == 0:
-        print("Heads")
+        print("Kopf")
     else:
-        print("Tails")
+        print("Zahl")
 
 Variante 2 – mit random():
 
     import random
 
     if random.random() < 0.5:
-        print("Heads")
+        print("Kopf")
     else:
-        print("Tails")
+        print("Zahl")
 
