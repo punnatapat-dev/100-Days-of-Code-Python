@@ -281,7 +281,7 @@ und werden häufig beim Programmieren mit Python verwendet.
 
 ---
 
-🍽️ Mini Project – Food Picker 🍜🥨
+ ## Mini Project – Food Picker 🍜🥨🍽️
 
 📌 Projektbeschreibung
 
