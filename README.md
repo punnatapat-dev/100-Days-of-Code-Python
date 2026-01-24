@@ -18,7 +18,7 @@ A structured Python learning journey based on hands-on projects and daily practi
   - 🎮 Mini Project: Fauler Sonntagmorgen ☕😴
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen)
     
-- 📁 [Day 4 – Randomisation & Lists](./day4)
+- 📁 [Day 4 – Randomisation & Lists](./day 4)
   - Topics: Random Module, Lists, Indexing, Nested Lists
   - 🍽️ Mini Project: Zufälliger Essensvorschlag (Food Picker🍜🥨)
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Food-Picker)
