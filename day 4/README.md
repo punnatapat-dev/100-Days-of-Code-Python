@@ -5,7 +5,7 @@ In diesem Kapitel geht es um Zufälligkeit (Randomization) in Python.
 Da Computer deterministisch arbeiten, nutzt Python sogenannte Pseudo-Zufallszahlen,
 die mithilfe mathematischer Algorithmen erzeugt werden.
 
-## Random-Modul importieren
+## 🧩Random-Modul importieren
 Bevor Zufallsfunktionen verwendet werden können, muss das Modul importiert werden:
 
     import random
@@ -56,7 +56,85 @@ Variante 2 – mit random():
     else:
         print("Zahl")
 ---
-# 📋 Python Lists 
+
+## 🧩Zufällige Auswahl aus einer Liste (random.choice vs random.randint)
+
+Dafür gibt es in Python zwei gängige Möglichkeiten:
+- `random.choice()`
+- `random.randint()` in Kombination mit einem Index
+
+Beide Methoden sind korrekt und liefern zufällige Ergebnisse.
+
+---
+
+## Beispiel-Liste
+
+    friend = ["Almond", "Joghurt", "Taohoo", "Kieke"]
+
+---
+
+## Variante 1 – random.choice()
+
+    import random
+    print(random.choice(friend))
+
+### Erklärung
+- `random.choice()` wählt **direkt ein zufälliges Element** aus der Liste aus
+- Kein Index notwendig
+- Sehr kurze und gut lesbare Lösung
+
+### Eigenschaften
+- Einfach
+- Übersichtlich
+- Empfohlen, wenn man die Funktion kennt
+
+---
+
+## Variante 2 – random.randint() + Index
+
+    import random
+
+    random_index = random.randint(0, len(friend) - 1)
+    print(friend[random_index])
+
+### Erklärung
+- `random.randint()` erzeugt eine zufällige Zahl
+- Diese Zahl wird als **Index** für die Liste verwendet
+- Listen beginnen in Python immer bei Index 0
+
+### Eigenschaften
+- Etwas mehr Code
+- Logisch nachvollziehbar
+- Ebenfalls vollkommen korrekt
+
+---
+
+## Wichtiger Hinweis zu eckigen Klammern [ ]
+Beim Zugriff auf ein Element in einer Liste sind eckige Klammern notwendig:
+
+    friend[random_index]
+
+- `[ ]` werden benutzt, um ein Element aus einer Liste zu holen
+- `( )` werden benutzt, um eine Funktion auszuführen
+
+---
+
+## Vergleich der beiden Methoden
+
+| Methode | Vorteil | Nachteil |
+|-------|--------|---------|
+| random.choice() | Kurz und klar | Funktion muss bekannt sein |
+| random.randint() | Logik gut sichtbar | Mehr Code notwendig |
+
+---
+
+## Fazit
+Beide Methoden liefern das gleiche Ergebnis.
+In der Praxis wird häufig `random.choice()` verwendet, da der Code kürzer und besser lesbar ist.
+Wichtig ist nicht, alles auswendig zu lernen, sondern zu verstehen, **wie Listen und Zufall zusammenarbeiten**.
+
+---
+## 📋 Python Lists 
 
 In diesem Abschnitt geht es um die **Python List**, eine wichtige **Datenstruktur**.
 Listen werden verwendet, um **mehrere zusammengehörige Daten** in einer einzigen Variable zu speichern.
