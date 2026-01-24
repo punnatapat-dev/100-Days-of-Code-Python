@@ -134,7 +134,7 @@ In der Praxis wird häufig `random.choice()` verwendet, da der Code kürzer und 
 Wichtig ist nicht, alles auswendig zu lernen, sondern zu verstehen, **wie Listen und Zufall zusammenarbeiten**.
 
 ---
-## 📋 Python Lists 
+##  🧩Python Lists 📋
 
 In diesem Abschnitt geht es um die **Python List**, eine wichtige **Datenstruktur**.
 Listen werden verwendet, um **mehrere zusammengehörige Daten** in einer einzigen Variable zu speichern.
@@ -214,5 +214,68 @@ Fügt **mehrere Elemente** aus einer anderen Liste hinzu:
 ---
 
 
+## 🧩 Nested Lists 
 
+Eine **Nested List** ist eine Liste, die **andere Listen als Elemente enthält**.
+Das bedeutet: Eine Liste kann nicht nur einzelne Werte speichern,
+sondern auch **ganze Listen**.
 
+## Was ist eine Nested List?
+Eine Nested List entsteht, wenn man eine Liste **in eine andere Liste einfügt**.
+
+Beispiel mit Gemüse:
+
+    gemuese_gruppe_1 = ["Karotte", "Tomate", "Gurke"]
+    gemuese_gruppe_2 = ["Paprika", "Zwiebel", "Kartoffel"]
+
+    gemuese_liste = [gemuese_gruppe_1, gemuese_gruppe_2]
+
+Hier ist:
+- `gemuese_liste` die äußere Liste
+- `gemuese_gruppe_1` und `gemuese_gruppe_2` sind Listen innerhalb der Liste
+
+---
+
+## Struktur einer Nested List
+Wenn man die Liste ausgibt, sieht man mehrere eckige Klammern:
+
+    [['Karotte', 'Tomate', 'Gurke'], ['Paprika', 'Zwiebel', 'Kartoffel']]
+
+- Äußere `[ ]` → Hauptliste
+- Innere `[ ]` → Listen innerhalb der Liste
+
+---
+
+## Zugriff auf Elemente in einer Nested List
+
+### Zugriff auf eine innere Liste
+    gemuese_liste[0]
+
+Ergebnis:
+    ['Karotte', 'Tomate', 'Gurke']
+
+---
+
+### Zugriff auf ein einzelnes Element
+    gemuese_liste[0][1]
+
+Ergebnis:
+    Tomate
+
+Erklärung:
+- Erstes `[ ]` → wählt die innere Liste
+- Zweites `[ ]` → wählt das Element in dieser Liste
+
+---
+
+## Merkhilfe
+- Eine List kann **andere Lists enthalten**
+- Mehrere `[ ]` bedeuten **mehrere Ebenen**
+- Zugriff erfolgt mit `[Index][Index]`
+
+---
+
+## Fazit
+Nested Lists sind sehr nützlich, wenn Daten **in Gruppen organisiert** werden sollen.
+Sie helfen dabei, zusammengehörige Daten übersichtlich zu strukturieren
+und werden häufig beim Programmieren mit Python verwendet.
