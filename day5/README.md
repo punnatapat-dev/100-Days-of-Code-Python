@@ -83,4 +83,4 @@ Das Programm erzeugt anschließend einen **zufälligen, einzigartigen Benutzerna
 ---
 
 ▶️ **Live Demo (Replit)**  
-https://replit.com/@punnatapat-dev/Username-Generator
+[https://replit.com/@punnatapat-dev/Username-Generator](https://replit.com/@punnatapat-dev/Username-Generator)
