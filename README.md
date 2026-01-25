@@ -10,7 +10,7 @@ A structured Python learning journey based on hands-on projects and daily practi
 
 - 📁 [Day 2 – Python Basics: Datatypes & Operators](./day2)
   - Topics: Primitive Datatypes, Type Checking, Type Conversion, Operators, Number Manipulation  
-  - 🍕 Mini Project: Pizza Cost Calculator  
+  - 🍕 Mini Project: Pizza Cost Calculator 🧮 
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Pizza-Kostenrechner)
     
 - 📁 [Day 3 – Conditions, Logic & Decision Making](/day3)
