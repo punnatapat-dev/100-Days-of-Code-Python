@@ -25,5 +25,5 @@ A structured Python learning journey based on hands-on projects and daily practi
 
 - 📂 [Day 5 – Python Loops](./day5)
   - Topics: for Loops, range(), Accumulator Pattern, Working with Numbers
-  - 👤🔐 Mini Project: Username Generator / Password Generator
+  - 👤🔐 Mini Project: Username Generator / Password Generator 👤🔐
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Username-Generator)
