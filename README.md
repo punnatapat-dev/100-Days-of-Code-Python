@@ -25,5 +25,10 @@ A structured Python learning journey based on hands-on projects and daily practi
 
 - 📂 [Day 5 – Python Loops](./day5)
   - Topics: for Loops, range(), Accumulator Pattern, Working with Numbers
-  - 👤🔐 Mini Project: Username Generator / Password Generator 👤🔐
+  - 👤🔐 Mini Project: Username Generator / Password Generator 👤🔐  
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Username-Generator)
+    
+- 📁 [Day 6 – Python Functions, while Loops & Algorithms](./day6)
+  - Topics: Functions, Indentation, while Loops, Conditional Logic, Algorithms
+  - 🤖 Final Project: [Maze Solver – Right-Hand Rule](./day6/maze_solver.py)  
+  - 🌐 Reeborg’s World: https://reeborg.ca
