@@ -30,5 +30,15 @@ A structured Python learning journey based on hands-on projects and daily practi
     
 - 📁 [Day 6 – Python Functions, while Loops & Algorithms](./day6)
   - Topics: Functions, Indentation, while Loops, Conditional Logic, Algorithms
-  - 🤖 Final Project: [Maze Solver – Right-Hand Rule](./day6/maze_solver.py)  
+  - 🤖 Mini Project: [Maze Solver – Right-Hand Rule](./day6/maze_solver.py)  
   - 🌐 Reeborg’s World: https://reeborg.ca
+ 
+- 📁 [Day 7 – Hangman Project (Loops, Logic & Modules)](./day7)
+  - Topics: for / while Loops, if / else, Lists, Strings, Modules, Game Logic
+  - 🎯 Project: Hangman Game (Console-based Python Game)
+  - ▶️ Run locally:
+    ```bash
+    python main.py
+    ```
+
+
