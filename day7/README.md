@@ -112,3 +112,6 @@ Das Spiel vervollständigen, benutzerfreundlicher gestalten und Module nutzen.
 - Bei Spielverlust → Anzeige des richtigen Wortes (`chosen_word`)
 
 ---
+## 🧩 Game Logic Diagram
+
+![Hangman Flowchart](./docs/hangman-flowchart.jpg)
