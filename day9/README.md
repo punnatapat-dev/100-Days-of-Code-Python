@@ -1,5 +1,7 @@
 ## 📘 Day 9 – Python Dictionaries & Nesting
 
+---
+
 🎯 **Was ist ein Python Dictionary?**
 - Speichert Daten im Format **Key : Value**
 - Vergleichbar mit einem Wörterbuch im Alltag  
@@ -45,3 +47,45 @@ Beispiel:
 - Mehrere Benutzereingaben verarbeiten
 - Vergleich der Gebote zur Ermittlung des Gewinners
 - Praxisnahe Übung zur Anwendung von Dictionaries
+
+---
+
+## 🎯Nesting: Lists & Dictionaries
+
+📦 **Was ist Nesting?**
+- Nesting bedeutet, dass eine **Liste oder ein Dictionary**  
+  als Wert in einer anderen Liste oder einem anderen Dictionary gespeichert wird
+- Ermöglicht die strukturierte Speicherung **komplexerer Daten**
+
+📘 **Dictionary mit List als Value**
+
+`travel_log = { "France": ["Paris", "Lille", "Dijon"], "Germany": ["Berlin", "Hamburg", "Stuttgart"] }`
+
+Zugriff auf Daten:
+
+`print(travel_log["France"][1])` → `Lille`
+
+📗 **Liste in Liste (2D-Liste)**
+
+`nested_list = ["A", "B", ["C", "D"]]`
+
+Zugriff auf Daten:
+
+`print(nested_list[2][1])` → `D`
+
+📙 **Dictionary in Dictionary**
+
+`travel_log = { "France": { "num_times_visited": 8, "cities_visited": ["Paris", "Lille", "Dijon"] }, "Germany": { "num_times_visited": 5, "cities_visited": ["Berlin", "Hamburg", "Stuttgart"] } }`
+
+Zugriff auf mehrstufige Daten:
+
+`print(travel_log["Germany"]["cities_visited"][2])` → `Stuttgart`
+
+🧠 **Wichtige Denkweise**
+- Zugriff auf ein **Dictionary** → über den **Key**
+- Zugriff auf eine **Liste** → über den **Index**
+- Schrittweise denken: **von außen nach innen**
+- Auf korrekte Schreibweise der Keys achten (vermeidet `KeyError`)
+
+
+
