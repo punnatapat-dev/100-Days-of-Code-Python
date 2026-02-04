@@ -87,5 +87,59 @@ Zugriff auf mehrstufige Daten:
 - Schrittweise denken: **von außen nach innen**
 - Auf korrekte Schreibweise der Keys achten (vermeidet `KeyError`)
 
+---
+
+## 📘 Day 9 – Blind (Silent) Auction Projekt
+
+🎯 **Projektziele**
+- Anwendung von **Python Dictionary**, **Loops** und **Functions** in einem realen Projekt
+- Erstellung eines **Blind Auction** Programms mit geheimen Geboten
+- Ermittlung des Gewinners anhand des **höchsten Gebots**
+
+🧠 **Grundidee der Blind Auction**
+- Jeder Benutzer gibt **Name + Gebot** ein
+- Vorherige Gebote sind für andere Benutzer **nicht sichtbar**
+- Nachdem alle Gebote abgegeben wurden, gibt das Programm den **Gewinner** bekannt
+
+🗂️ **Datenstruktur**
+- Verwendung eines Dictionaries zur Speicherung der Gebote
+
+Beispiel:
+`bids = { "Alice": 12, "Bob": 3, "Charlie": 1 }`
+
+- **Key** → Name des Bieters  
+- **Value** → Gebotener Preis  
+
+🔁 **Programmablauf (Flow)**
+- Anzeige des Programm-Logos
+- Eingabe des Bieternamens
+- Eingabe des Gebots
+- Speicherung der Daten im Dictionary
+- Abfrage, ob es weitere Bieter gibt
+- Bei **Ja** → Bildschirm leeren → neue Eingabe
+- Bei **Nein** → Gewinner berechnen → Ergebnis anzeigen
+
+🧹 **Bildschirm leeren**
+- Erzeugung vieler leerer Zeilen, um vorherige Gebote zu verbergen
+
+`print("\n" * 100)`
+
+➡️ Verhindert, dass der nächste Bieter frühere Gebote sehen kann
+
+🧩 **Funktion zur Gewinnerermittlung**
+- Iteration über das Dictionary
+- Vergleich aller Gebote
+- Speicherung des höchsten Gebots und des Gewinnernamens
+
+Grundidee:
+`highest_bid = 0`  
+`winner = ""`
+
+🛠️ **Verwendete Werkzeuge**
+- `input()` → Benutzereingaben erfassen
+- `while`-Loop → mehrere Bieter ermöglichen
+- `dictionary` → Speicherung der Gebote
+- `function` → Trennung der Logik zur Gewinnerermittlung
+
 
 
