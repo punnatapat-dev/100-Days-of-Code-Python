@@ -48,5 +48,12 @@ A structured Python learning journey based on hands-on projects and daily practi
     ```bash
     python main.py
     ```
-
+    
+- 📁 [Day 9 – Dictionaries, Nesting and Auction project](./day9)
+  - Topics: Dictionaries, Nesting, Looping through Dictionaries
+  - 🔨 Project: [Blind Auction](./day9/main.py)
+  - ▶️ Run locally:
+    ```bash
+    python main.py
+    ```
 
