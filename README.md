@@ -46,4 +46,10 @@ A structured Python learning journey based on hands-on projects and daily practi
 - 📁 [Day 9 – Dictionaries, Nesting and Auction project](./day9)
   - Topics: Dictionaries, Nesting, Looping through Dictionaries
   - 🔨 Project: [Blind Auction](./day9/main.py)
+
+     
+- 📁 [Day 10 – Functions with Outputs](./day10)
+  - Topics: Functions with Return Values, Function Chaining, Dictionaries with Functions, Control Flow, Recursion, Code Reusability (DRY)
+  - 🧮 Project: [Calculator (Text-based)](./day10/main.py)
+
  
