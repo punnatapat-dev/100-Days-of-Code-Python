@@ -36,24 +36,14 @@ A structured Python learning journey based on hands-on projects and daily practi
 - 📁 [Day 7 – Hangman Project (Loops, Logic & Modules)](./day7)
   - Topics: for / while Loops, if / else, Lists, Strings, Modules, Game Logic
   - 🎯 Project: [Hangman Game (Console-based Python Game)](./day7/hangman/main.py)
-  - ▶️ Run locally:
-    ```bash
-    python main.py
-    ```
+ 
     
 - 📁 [Day 8 – Functions with Inputs & Caesar Cipher](./day8)
   - Topics: Functions with Inputs, Parameters vs Arguments, Multiple Inputs, Positional & Keyword Arguments
   - 🔐 Project: [Caesar Cipher – Encode / Decode](./day8/main.py)
-  - ▶️ Run locally:
-    ```bash
-    python main.py
-    ```
+  
     
 - 📁 [Day 9 – Dictionaries, Nesting and Auction project](./day9)
   - Topics: Dictionaries, Nesting, Looping through Dictionaries
   - 🔨 Project: [Blind Auction](./day9/main.py)
-  - ▶️ Run locally:
-    ```bash
-    python main.py
-    ```
-
+ 
