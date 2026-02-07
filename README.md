@@ -51,5 +51,10 @@ A structured Python learning journey based on hands-on projects and daily practi
 - 📁 [Day 10 – Functions with Outputs](./day10)
   - Topics: Functions with Return Values, Function Chaining, Dictionaries with Functions, Control Flow, Recursion, Code Reusability (DRY)
   - 🧮 Project: [Calculator (Text-based)](./day10/main.py)
+    
+
+- 📁 [Day 11 – Blackjack (Capstone Project)](./day11)
+  - Topics: Capstone Project, Game Logic, Control Flow, Problem Solving
+  - 🔨 Project: [Blackjack Game](./day11/main.py)
 
  
