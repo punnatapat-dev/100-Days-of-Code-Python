@@ -13,7 +13,7 @@ A structured Python learning journey based on hands-on projects and daily practi
   - 🍕 Mini Project: Pizza Cost Calculator 🧮 
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Pizza-Kostenrechner)
     
-- 📁 [Day 3 – Conditions, Logic & Decision Making](/day3)
+- 📁 [Day 3 – Conditions, Logic & Decision Making](/day03)
   - Topics: Conditional Statements, Logical Thinking, Decision Structures
   - 🎮 Mini Project: Fauler Sonntagmorgen ☕😴
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Mini-Project-Fauler-Sonntagmorgen)
