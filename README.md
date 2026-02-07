@@ -33,9 +33,9 @@ A structured Python learning journey based on hands-on projects and daily practi
   - 🤖 Mini Project: [Maze Solver – Right-Hand Rule](./day6/maze_solver.py)  
   - 🌐 Reeborg’s World: https://reeborg.ca
  
-- 📁 [Day 7 – Hangman Project (Loops, Logic & Modules)](./day7)
+- 📁 [Day 7 – Hangman Project (Loops, Logic & Modules)](./day07)
   - Topics: for / while Loops, if / else, Lists, Strings, Modules, Game Logic
-  - 🎯 Project: [Hangman Game (Console-based Python Game)](./day7/hangman/main.py)
+  - 🎯 Project: [Hangman Game (Console-based Python Game)](./day07/hangman/main.py)
  
     
 - 📁 [Day 8 – Functions with Inputs & Caesar Cipher](./day8)
