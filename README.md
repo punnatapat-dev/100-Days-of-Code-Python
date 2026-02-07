@@ -23,7 +23,7 @@ A structured Python learning journey based on hands-on projects and daily practi
   - 🍽️ Mini Project: Zufälliger Essensvorschlag (Food Picker🍜🥨)
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Food-Picker)
 
-- 📂 [Day 5 – Python Loops](./day5)
+- 📂 [Day 5 – Python Loops](./day05)
   - Topics: for Loops, range(), Accumulator Pattern, Working with Numbers
   - 👤🔐 Mini Project: Username Generator / Password Generator 👤🔐  
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Username-Generator)
