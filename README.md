@@ -28,7 +28,7 @@ A structured Python learning journey based on hands-on projects and daily practi
   - 👤🔐 Mini Project: Username Generator / Password Generator 👤🔐  
   - ▶️ [Run on Replit](https://replit.com/@punnatapat-dev/Username-Generator)
     
-- 📁 [Day 6 – Python Functions, while Loops & Algorithms](./day6)
+- 📁 [Day 6 – Python Functions, while Loops & Algorithms](./day06)
   - Topics: Functions, Indentation, while Loops, Conditional Logic, Algorithms
   - 🤖 Mini Project: [Maze Solver – Right-Hand Rule](./day6/maze_solver.py)  
   - 🌐 Reeborg’s World: https://reeborg.ca
@@ -38,14 +38,14 @@ A structured Python learning journey based on hands-on projects and daily practi
   - 🎯 Project: [Hangman Game (Console-based Python Game)](./day07/hangman/main.py)
  
     
-- 📁 [Day 8 – Functions with Inputs & Caesar Cipher](./day8)
+- 📁 [Day 8 – Functions with Inputs & Caesar Cipher](./day08)
   - Topics: Functions with Inputs, Parameters vs Arguments, Multiple Inputs, Positional & Keyword Arguments
-  - 🔐 Project: [Caesar Cipher – Encode / Decode](./day8/main.py)
+  - 🔐 Project: [Caesar Cipher – Encode / Decode](./day08/main.py)
   
     
-- 📁 [Day 9 – Dictionaries, Nesting and Auction project](./day9)
+- 📁 [Day 9 – Dictionaries, Nesting and Auction project](./day09)
   - Topics: Dictionaries, Nesting, Looping through Dictionaries
-  - 🔨 Project: [Blind Auction](./day9/main.py)
+  - 🔨 Project: [Blind Auction](./day09/main.py)
 
      
 - 📁 [Day 10 – Functions with Outputs](./day10)
