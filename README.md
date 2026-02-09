@@ -57,4 +57,7 @@ A structured Python learning journey based on hands-on projects and daily practi
   - Topics: Capstone Project, Game Logic, Control Flow, Problem Solving
   - 🔨 Project: [Blackjack Game](./day11/main.py)
 
- 
+- 📁 [Day 12 – Number Guessing Game](./day12)
+  - Topics: Scope (Local vs Global), Functions, Control Flow, While Loops, Problem Solving
+  - 🔨 Project: [Number Guessing Game](./day12/main.py)
+
