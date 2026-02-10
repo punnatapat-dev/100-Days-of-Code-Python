@@ -1,5 +1,4 @@
-## 🐞 Debugging – Wichtige Zusammenfassung
-
+## 🐞 Day 13 Debugging 
 Debugging ist der Prozess des **Findens und Behebens von Fehlern (Bugs)** im Code.  
 Es ist eine der wichtigsten Fähigkeiten für Programmierer.  
 Bugs sind **kein persönlicher Fehler**, sondern ein natürlicher Teil des Lern-  
