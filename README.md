@@ -61,3 +61,7 @@ A structured Python learning journey based on hands-on projects and daily practi
   - Topics: Scope (Local vs Global), Functions, Control Flow, While Loops, Problem Solving
   - 🔨 Project: [Number Guessing Game](./day12/main.py)
 
+- 📁 [Day 13 – Debugging](./day13)
+  - Topics: Describe the Problem, Reproduce the Bug, Fixing Errors and Wactching for Red underlines, using a Debugger
+
+
