@@ -64,4 +64,7 @@ A structured Python learning journey based on hands-on projects and daily practi
 - 📁 [Day 13 – Debugging](./day13)
   - Topics: Describe the Problem, Reproduce the Bug, Fixing Errors and Wactching for Red underlines, using a Debugger
 
+- 📁 [Day 14 – Higher or Lower Game](./day14)
+  - Topics: Problem Decomposition, Lists of Dictionaries, Random Module, Boolean Logic, Game Loop, State Management
+  - 🔨 Project: [Higher or Lower Game](./day14/main.py)
 
